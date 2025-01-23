@@ -1,5 +1,5 @@
 # PropertyIntelligence
-Project Overview
+**Project Overview**
 A Flask-based web application that predicts house prices and rental rates using machine learning, allowing users to estimate property values by inputting various property attributes.
 Features
 
