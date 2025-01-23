@@ -1,0 +1,88 @@
+.back{
+    /* background-color: aquamarine; */
+    background: url(form1.jpg) no-repeat center center fixed;
+    background-color: rgba(0, 0, 0, 0.8); /* Black overlay */
+    background-size: cover; 
+}
+.back .container{ 
+    color: white;
+    /* position: absolute; */
+    top: 25%;
+    left: 40%; 
+}
+.back .container-fluid h2{
+    font-family: Arial, sans-serif;
+    width: 50%;
+    display: inline-block;
+    font-size: 40px;
+    border-bottom: 5px solid purple;
+    margin-bottom: 15px;
+    padding: 13px 0;
+}
+
+.inpstyle {
+    background:none;
+    width: 75%;
+    padding: 5px 10px;
+    font-size: 20px;
+    outline:none;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+
+}
+/* .inpstyle:hover {
+    background-color: white;
+    width: 75%;
+    padding: 5px 10px;
+    font-size: 20px;
+    outline:none;
+    color: white;
+
+} */
+/* labelling design */
+label{
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+    font-size: 25px;
+}
+
+/* Select and option tag */
+#forminp select{
+    background: none;
+    width: 75%;
+    padding: 5px 10px;
+    font-size: 20px;
+    border: none;
+    outline:none;
+    color: rgb(3, 3, 3);
+    border: 2px solid rgb(0, 0, 0);
+
+}
+#forminp option{
+    background: none;
+    color: black;
+}
+
+/* Submit button */
+#submitbtn{
+        color: white;
+        cursor: pointer;
+        outline: none; 
+        margin: 12px 0;
+        padding: 10px 21px;
+        border: 2px solid rgb(255, 255, 255);
+        border-radius: 10px;
+        font-size: 18px;
+        background: none;
+        font-weight: bold;
+}
+#submitbtn:hover{
+        opacity: 0.8;
+        color: rgb(255, 255, 255); 
+        background: rgb(245, 8, 8); 
+}
+
+
+#home:hover{
+    color: darkred;
+}
