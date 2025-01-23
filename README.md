@@ -66,3 +66,5 @@ And more...
 
 Visualization
 Includes a dependency graph showing correlations between features and property prices.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
